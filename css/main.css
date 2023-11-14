@@ -406,3 +406,7 @@ letter-spacing: -0.42px;
         flex-direction: column;
     }
 }
+
+.abstractClass {
+    padding: 10px;
+}
